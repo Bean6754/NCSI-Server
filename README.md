@@ -9,6 +9,8 @@ What is NCSI?
 - From Wikipedia: [NCSI (Network Connectivity Status Indicator), an internet connection awareness protocol used in Microsoft's Windows operating systems](https://en.wikipedia.org/wiki/NCSI).
 
 ## How to
+- Run `registry.reg` (it will need admin rights).
+
 - Setup an IIS server by going to `Control Panel` -> `Programs and Features` -> `Turn Windows features on or off` -> Enable `Internet Information Services` with the defaults or your preferred options.
 
 - Place the contents of `wwwroot` inside of `%systemdrive%\inetpub\wwwroot` or your other web-root folder.
