@@ -6,7 +6,7 @@ This will fix that DNS/Enable Active Probing/Globe WiFi icon/WiFi Action Require
 ## About
 
 What is NCSI?
-- From Wikipedia: [NCSI (Network Connectivity Status Indicator), an internet connection awareness protocol used in Microsoft's Windows operating systems](https://en.wikipedia.org/wiki/NCSI)
+- From Wikipedia: [NCSI (Network Connectivity Status Indicator), an internet connection awareness protocol used in Microsoft's Windows operating systems](https://en.wikipedia.org/wiki/NCSI).
 
 ## How to
 - Setup an IIS server by going to `Control Panel` -> `Programs and Features` -> `Turn Windows features on or off` -> Enable `Internet Information Services` with the defaults or your preferred options.
