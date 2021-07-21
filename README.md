@@ -1,5 +1,5 @@
 # Microsoft NCSI Server
-A Microsoft NCSI web-server
+An unofficial Microsoft NCSI web-server
 
 This will fix that DNS/Enable Active Probing/Globe WiFi icon/WiFi Action Required issue!  ;)
 
