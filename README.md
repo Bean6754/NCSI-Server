@@ -17,6 +17,8 @@ What is NCSI?
 
 - Copy `hosts` (or add the Microsoft NCSI domains host entry) to `%windir%\system32\drivers\etc\hosts` to reflect your new local Microsoft NCSI web-server.
 
+- Reboot.
+
 ### NOTE: This should also work with any other web-server as it only needs to serve static-content.
 
 ## Todo
